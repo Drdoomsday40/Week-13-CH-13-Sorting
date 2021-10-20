@@ -1,0 +1,2 @@
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 13 (11_23) CH 13 Sorting\quick1\Debug\quick1.exe
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 13 (11_23) CH 13 Sorting\quick1\Debug\quick1.pdb
